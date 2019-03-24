@@ -6,10 +6,8 @@
       </h1>
       <div class="flex">
         <div class="mr-6"><nuxt-link to="/about" class="nav text-black no-underline">About</nuxt-link></div>
-        <div><nuxt-link to="/team" class="nav text-black no-underline">Team</nuxt-link></div>
       </div>
     </div>
-
 
     <div class="border-b border-solid border-grey mb-8"></div>
   </div>
